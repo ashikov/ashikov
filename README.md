@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 🔭 I'm currently work at Hexlet
 
-⚡ Fun fact: I make Korean carrot satal very quickly
+⚡ Fun fact: I make Korean carrot salad very quickly
