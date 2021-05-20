@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Fun fact: Im work at Hexlet :D
+🔭 I’m currently working at Hexlet
+
+⚡ Fun fact: I make Korean carrot satal very quickly
