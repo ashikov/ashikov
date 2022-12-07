@@ -10,6 +10,9 @@
   <a href="https://twitter.com/it_heisenberg">
     <img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
+  <a href="https://linkedin.com/in/ashikovroman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge">
+  </a>
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashikov&show_icons=true)](https://github.com/ashikov)
