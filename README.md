@@ -1,3 +1,17 @@
+<p align="center">
+  <b>My contacts:</b>
+  <br>
+  <a href="mailto:pickle@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://t.me/it_heisenberg">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="https://twitter.com/it_heisenberg">
+    <img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge">
+  </a>
+</p>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashikov&show_icons=true)](https://github.com/ashikov)
 
 <!--
