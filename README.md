@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <b>My contacts:</b>
   <br>
   <a href="mailto:pickle@gmail.com">
