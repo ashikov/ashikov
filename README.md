@@ -1,4 +1,4 @@
-<p>
+<p style="text-decoration: none;">
   <b>My contacts:</b>
   <br>
   <a href="mailto:pickle@ashikov.ru">
