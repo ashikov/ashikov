@@ -1,4 +1,8 @@
-<p style="text-decoration: none;">
+<styles>
+  a:hover { text-decoration: none; }
+</styles>
+
+<p>
   <b>My contacts:</b>
   <br>
   <a href="mailto:pickle@ashikov.ru">
