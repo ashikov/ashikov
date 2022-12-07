@@ -1,7 +1,7 @@
 <p>
   <b>My contacts:</b>
   <br>
-  <a href="mailto:pickle@gmail.com">
+  <a href="mailto:pickle@ashikov.ru">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://t.me/it_heisenberg">
