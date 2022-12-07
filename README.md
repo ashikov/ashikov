@@ -1,7 +1,3 @@
-<styles>
-  a:hover { text-decoration: none; }
-</styles>
-
 <p>
   <b>My contacts:</b>
   <br>
