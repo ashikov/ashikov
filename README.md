@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I'm currently work at [Hexlet](https://hexlet.io/)
+🔭 I’m currently not working anywhere
 
 ⚡ Fun fact: I make Korean carrot salad very quickly
